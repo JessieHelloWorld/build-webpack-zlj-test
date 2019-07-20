@@ -1,0 +1,66 @@
+{
+	"error": [],
+	"extra": [],
+	"data": {
+		"list": [{
+			"banner_redirect_type": "product",
+			"id": 4478,
+			"banner_utm_term": "banner723",
+			"extra": {
+				"column_sku": "100030501",
+				"column_type": 3,
+				"product_type": "c3",
+				"column_id": 197,
+				"had_sub": false
+			},
+			"banner_cover": "https:\/\/static001.geekbang.org\/resource\/image\/be\/b6\/be12d5dc51945103a98465f01f8cb4b6.jpg",
+			"banner_redirect_param": "100030501",
+			"banner_title": "7.5第一轮播图-ES倒计时1天",
+			"score": 860555715200
+		}, {
+			"banner_cover": "https:\/\/static001.geekbang.org\/resource\/image\/95\/15\/95b3cd1e7637999de12d7ee160b71f15.jpg",
+			"banner_redirect_type": "article",
+			"banner_redirect_param": "104936",
+			"banner_title": "7.5第二轮播图-数据分析专题",
+			"score": 856260747904,
+			"banner_utm_term": "banner720",
+			"id": 4475
+		}, {
+			"banner_cover": "https:\/\/static001.geekbang.org\/resource\/image\/92\/c7\/929809932ac6dac6838282be1edf4fc7.jpg",
+			"banner_redirect_type": "article",
+			"banner_redirect_param": "105177",
+			"banner_title": "7.5第三轮播图-软件工程专题",
+			"score": 851965780608,
+			"banner_utm_term": "banner721",
+			"id": 4476
+		}, {
+			"banner_redirect_type": "product",
+			"id": 4477,
+			"banner_utm_term": "banner722",
+			"extra": {
+				"column_sku": "100031001",
+				"column_type": 1,
+				"product_type": "c1",
+				"column_id": 200,
+				"had_sub": false
+			},
+			"banner_cover": "https:\/\/static001.geekbang.org\/resource\/image\/cd\/e5\/cdfd292d41efab2899e3cdee927df0e5.jpg",
+			"banner_redirect_param": "100031001",
+			"banner_title": "7.5第四轮播图-flutter核心技术与实战",
+			"score": 847670813312
+		}, {
+			"banner_cover": "https:\/\/static001.geekbang.org\/resource\/image\/04\/74\/0469d119e335db6bdf9b085d1c3e1674.jpg",
+			"banner_redirect_type": "article",
+			"banner_redirect_param": "102047",
+			"banner_title": "7.5第五轮播图-企业账号",
+			"score": 843375846016,
+			"banner_utm_term": "banner724",
+			"id": 4479
+		}],
+		"page": {
+			"count": 5,
+			"more": false
+		}
+	},
+	"code": 0
+}
