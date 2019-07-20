@@ -13,7 +13,7 @@ install:
   - npm install -D
   - cd ./test/smoke/template
   - npm install -D
-  # - cd ../../../ 老师的需要加这个，但是我没加这个也运行OK
+  - cd ../../../ #回到根目录，因为下面要执行npm test
 
 script: 
   - npm test
